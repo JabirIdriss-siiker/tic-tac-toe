@@ -1,5 +1,5 @@
-//Fait par Boussetta Amir & Jabir Idriss
-//Morpion TP3 - Exercice 3
+//@author Jabir Idriss
+//Morpion tic-tac-toe
 
 #include <stdlib.h>
 #include <stdio.h>
